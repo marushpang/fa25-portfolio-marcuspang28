@@ -16,4 +16,4 @@ As part of the group, I helped dissect the pump, helped with measurements. I als
 
 
 ## SLF Pitch
-[Click here to open the pitch](assets/O3_Lighthousepitch.pdf)
+[Download the PDF](assets/O3_Lighthousepitch(11).pdf)
