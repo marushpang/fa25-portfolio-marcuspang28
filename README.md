@@ -13,3 +13,7 @@ As part of the group, I helped dissect the pump, helped with measurements. I als
 
 ## CV
 [Click here to open the Torque Wrench FEM report](assets/novresume1.pdf)
+
+
+## SLF Pitch
+[Click here to open the pitch](assets/O3_Lighthousepitch.pdf)
